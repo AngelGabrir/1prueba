@@ -27,5 +27,6 @@ int main(int argc, char const *argv[])
     scanf("%f",&nun2);
     printf("Resultado de %f x %f = %f",nun1,nun2, multiplicacion(nun1,nun2));
     return 0;
+    return 134;
 }
 
